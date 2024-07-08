@@ -19,6 +19,8 @@ public class TwoSumHashMap1 { //1
         //2.3 Printing result
         int[] result = twoSumHashMap(array,target);
         System.out.println("Indexes:" + result[0] + result[1]);
+        //TEST
+
 
     }
 
